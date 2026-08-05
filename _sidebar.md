@@ -2,14 +2,14 @@
   * [Pengantar](README.md)
   * [Daftar Transliterasi Unicode](transliterasi.md)
 
-* **SIMPLIFIED / PRASAJAN**
-  * [BAB 1 Pemakaian Aksara Tata Tulis Simplified](bab-1-pemakaian-aksara-tata-tulis-simplified.md) 
-	* [A. Kelengkapan Aksara Jawa dalam Tata Tulis Simplified](kelengkapan-aksara.md)
-	  * [1. Aksara Wyanjana](aksara-wyanjana.md)
-	  * [2. Aksara Murda dan Pasangannya](aksara-murda-dan-pasangannya.md)
-	  * [3. Aksara Swara](aksara-swara.md)
-	  * [4. Aksara Rekaan dan Aksara Pasangannya](aksara-rekaan-dan-pasangannya.md)
-	  * [5. Sandhangan](sandhangan.md)
-	    * [a. Aksara Legena](aksara-legena.md)
-	      * [1) Aksara legena yang diucapkan dengan suara jejeg/„/](aksara-legena-suara-jejeg.md)
-
+* **TATA TULIS PRASAJAN (JAVANESE SIMPLIFIED)**
+  * [BAB 1 PEMAKAIAN AKSARA](bab-1-pemakaian-aksara.md) 
+	* [1. Wyanjana dan pasangan](wyanjana-dan-pasangan.md)
+	* [2. Aksara swara dan pasangan](aksara-swara-dan-pasangan.md)
+	* [3. Aksara Murda](aksara-murda.md)
+	* [4. Aksara Rékan](aksara-rekan.md)
+  * [BAB 2 PEMAKAIAN SANDHANGAN](bab-1-pemakaian-sandhangan.md)
+  * [BAB 3 PEMAKAIAN TANDA BACA](bab-1-pemakaian-tanda-baca.md) 
+	* [1. Tandhan sejumlah 18 karakter](tandhan-sejumlah-18-karakter.md) 
+	* [2. Kombinasi Tanda Baca Lainnya](kombinasi-tanda-baca-lainnya.md)
+	* [3. Angka Jawa](angka-jawa.md)  
