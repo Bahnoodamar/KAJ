@@ -1,4 +1,4 @@
-* **BAB I PEMAKAIAN AKSARA **
+#**BAB I PEMAKAIAN AKSARA **
 Javanese Simplified (paugeran cara prasajan), adalah salah satu dari dua hasil rumusan sidang Komisi II Tata Tulis pada Kongres Aksara Jawa I 2021 Yogyakarta. Ada beberapa hal menarik yang melatar belakangi munculnya istilah paugeran ini.
 
 Munculnya isu digitasi dan digitalisasi aksara Jawa, terdaftarnya aksara Jawa di unicode konsortium menjadi tonggak awal jumlah pasti karakter aksara Jawa yang digunakan selama ini. Hal ini kemudian menjadi momentum untuk melihat kembali kelengkapan aksara Jawa beserta tata tulis yang pernah ada sebelum adanya pembakuan standar tata tulis tahun 1922.
